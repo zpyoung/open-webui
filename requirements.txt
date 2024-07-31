@@ -113,7 +113,6 @@ oauthlib==3.2.2
 olefile==0.47
 oletools==0.60.1
 onnxruntime==1.17.3
--e file:///Users/zpyoung/PycharmProjects/open-webui
 opencv-python==4.9.0.80
 opencv-python-headless==4.9.0.80
 openpyxl==3.1.2
